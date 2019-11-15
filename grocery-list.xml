@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="grocer-list.xsl"?>
+<groceries>
+    <item>
+        <description>Milk</description>
+        <store>Ralphs</store>
+    </item>
+    <item>
+        <description>Dog Food</description>
+        <store>Target</store>
+    </item>
+    <item>
+        <description>Paper Towels</description>
+        <store>Target</store>
+    </item>
+    <item>
+        <description>Club Soda</description>
+        <store>Ralphs</store>
+    </item>
+    <item>
+        <description>Eggs</description>
+        <store>Ralphs</store>
+    </item>
+    <item>
+        <description>Turkey Bacon</description>
+        <store>Target</store>
+    </item>
+    <item>
+        <description>Wheat Bread</description>
+        <store>Target</store>
+    </item>
+</groceries>
